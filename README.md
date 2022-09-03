@@ -1,2 +1,2 @@
 # qb-bootcamp
-Solidity Bootcamp conducted by QuestBook  
+Solidity Bootcamp conducted by Raj karia from Questbook 
